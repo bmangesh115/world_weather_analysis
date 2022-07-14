@@ -42,7 +42,7 @@ The link to the customer travel destinations DataFrame in csv file.<br>
 
 <figure>
     <figcaption>Travel desinations map based on customer preference</figcaption>
-    <img src="/Vacation_Search/WeatherPy_vacation.png" width="1512" height="650"
+    <img src="/Vacation_Search/WeatherPy_vacation_map.png" width="1512" height="650"
          alt="Travel desinations map based on customer preference">
 </figure> <br>
 
